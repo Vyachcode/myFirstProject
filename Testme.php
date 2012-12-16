@@ -7,6 +7,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-echo "Test 1";
+echo "Test 2";
 
 ?>
